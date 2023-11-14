@@ -1,0 +1,13 @@
+cot(2x) + csc(2x) == cot(x);
+
+cos(2x)/sin(2x) + 1/sin(2x) == RHS; // quotient identities for cot x and csc x
+
+(1 + cos(2x))/sin(2x) == RHS; // combining the too seperate fractions into one fraction
+
+2 cos2(x)/(2 sin(x) cos(x)) == RHS; // double angle identities
+
+cos2(x)/(sin(x)cos(x)) == RHS; // cancel the twos on twitter
+
+cos(x)/sin(x) == RHS; // cancel through by cos(x)
+
+cot(x) == cot(x); // use quotient identity
